@@ -1,1 +1,1 @@
-# C-Plus-Plus
+For educational purposes; requirement for school
